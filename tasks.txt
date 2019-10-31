@@ -1,0 +1,3 @@
+add bucket titles, 1
+add grid, 0
+split tasks into buckets, 2
